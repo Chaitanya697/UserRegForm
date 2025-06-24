@@ -1,0 +1,54 @@
+.userdetails-container {
+  max-width: 500px;
+  margin: 60px auto;
+  padding: 20px;
+  border-radius: 100px;
+  background-color: #f0f4f8;
+  text-align: center;
+}
+
+input {
+  display: block;
+  width: 90%;
+  padding: 10px;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+.dropCountry
+{
+   display: block;
+  width: 90%;
+  padding: 10px;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.btn {
+  padding: 10px 20px;
+  background-color: lightblue;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: green;
+  color: white;
+}
+/* Simple checkbox styling */
+input[type="checkbox"] {
+  margin-right: 8px;
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.checkbox-container {
+  width: 90%;
+  margin: 10px auto;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
